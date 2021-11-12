@@ -7,9 +7,9 @@
         "@testing-library/react": "^12.1.2",
         "@testing-library/user-event": "^13.5.0",
         "@types/jest": "^27.0.2",
-        "@types/node": "^16.10.3",
-        "@types/react": "^17.0.27",
-        "@types/react-dom": "^17.0.0",
+        "@types/node": "^16.11.7",
+        "@types/react": "^17.0.34",
+        "@types/react-dom": "^17.0.11",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-scripts": "4.0.3",
@@ -17,11 +17,11 @@
         "web-vitals": "^2.1.1"
     },
     "devDependencies": {
-        "@types/react-router-dom": "^5.3.1",
+        "@types/react-router-dom": "^5.3.2",
         "@typescript-eslint/eslint-plugin": "^4.33.0",
         "@typescript-eslint/parser": "^4.33.0",
         "eslint": "^7.32.0",
-        "eslint-plugin-react": "^7.26.1"
+        "eslint-plugin-react": "^7.27.0"
     },
     "scripts": {
         "start": "react-scripts start",
